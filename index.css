@@ -20,3 +20,11 @@ main{
 h1{
     background-color: palevioletred;
 }
+
+#experiencia{
+    margin: 1px;
+}
+
+#foto{
+    height: 300px;
+}
